@@ -8,7 +8,7 @@
 
 | N ° | Aulas | 
 |-----:|-----|
-| 1 |[ Git e Github](https://github.com/RodrigoSantana-Dev/BootCamp-Bradesco/blob/main/material/Instala%C3%A7ao-configuracao.md)| 
+| 1 |[ Resumo do Git e Github](https://github.com/RodrigoSantana-Dev/DioJavaBootCamp/tree/main/material/Git_Resumos)| 
 | 2 |[Java](https://github.com/RodrigoSantana-Dev/BootCamp-Bradesco/blob/main/material/Primeiros-Passos-com-GitEGitHub.md) |
 | 3 |[Visao Geral do Curso e Ferramentas](https://github.com/RodrigoSantana-Dev/BootCamp-Bradesco/blob/main/material/Visao-Geral-do-Curso.md)|
 | 4 |[Dicas-e-Material-de-Apoio](https://github.com/RodrigoSantana-Dev/BootCamp-Bradesco/blob/main/material/Dicas-e-Material-de-Apoio.md)|
